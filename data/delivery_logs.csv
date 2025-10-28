@@ -1,0 +1,30 @@
+Yopmail Test,user1@yopmail.com,Failed,"{'ErrorIdentifier': '9ce86fb1-ce0a-4b37-a7d2-3d74646f4e09', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:17
+Yopmail Test,user2@yopmail.com,Failed,"{'ErrorIdentifier': '75267d22-7643-43d3-bbea-92e0b19027e7', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:18
+Yopmail Test,user3@yopmail.com,Failed,"{'ErrorIdentifier': '13113d04-17e0-4f9f-88f2-08cb2509ae50', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:18
+Yopmail Test,user4@yopmail.com,Failed,"{'ErrorIdentifier': 'f5005fa6-5a2c-4692-8a18-9cab45c63b39', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:19
+Yopmail Test,user5@yopmail.com,Failed,"{'ErrorIdentifier': '86693da8-e4cb-4474-8ea5-5df2d8beb150', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:19
+Yopmail Test,user6@yopmail.com,Failed,"{'ErrorIdentifier': '46399602-8407-48e2-bfc1-907ad6ca2f78', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:20
+Yopmail Test,user7@yopmail.com,Failed,"{'ErrorIdentifier': 'bc032616-8cd7-40c0-b0a4-4d7fa1b61f3a', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:21
+Yopmail Test,user8@yopmail.com,Failed,"{'ErrorIdentifier': '1fec93e9-8ac0-45e6-803e-2cf2ae16bf0c', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:21
+Yopmail Test,user9@yopmail.com,Failed,"{'ErrorIdentifier': 'b7fbedb9-5a63-40b8-918a-d2176073638d', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:22
+Yopmail Test,user10@yopmail.com,Failed,"{'ErrorIdentifier': 'c028c171-b0a8-480f-b79d-0baed9c6999c', 'StatusCode': 401, 'ErrorMessage': 'API key authentication/authorization failure. You may be unauthorized to access the API or your API key may be expired. Visit API keys management section to check your keys.'}",2025-10-29 01:17:22
+Yopmail Test,user1@yopmail.com,Sent,,2025-10-29 01:36:00
+Yopmail Test,user2@yopmail.com,Sent,,2025-10-29 01:36:01
+Yopmail Test,user3@yopmail.com,Sent,,2025-10-29 01:36:01
+Yopmail Test,user4@yopmail.com,Sent,,2025-10-29 01:36:02
+Yopmail Test,user5@yopmail.com,Sent,,2025-10-29 01:36:03
+Yopmail Test,user6@yopmail.com,Sent,,2025-10-29 01:36:03
+Yopmail Test,user7@yopmail.com,Sent,,2025-10-29 01:36:04
+Yopmail Test,user8@yopmail.com,Sent,,2025-10-29 01:36:05
+Yopmail Test,user9@yopmail.com,Sent,,2025-10-29 01:36:05
+Yopmail Test,user10@yopmail.com,Sent,,2025-10-29 01:36:06
+Welcome Campaign,user1@yopmail.com,Sent,,2025-10-29 01:45:25
+Welcome Campaign,user2@yopmail.com,Sent,,2025-10-29 01:45:25
+Welcome Campaign,user3@yopmail.com,Sent,,2025-10-29 01:45:26
+Welcome Campaign,user4@yopmail.com,Sent,,2025-10-29 01:45:27
+Welcome Campaign,user5@yopmail.com,Sent,,2025-10-29 01:45:27
+Welcome Campaign,user6@yopmail.com,Sent,,2025-10-29 01:45:28
+Welcome Campaign,user7@yopmail.com,Sent,,2025-10-29 01:45:28
+Welcome Campaign,user8@yopmail.com,Sent,,2025-10-29 01:45:29
+Welcome Campaign,user9@yopmail.com,Sent,,2025-10-29 01:45:29
+Welcome Campaign,user10@yopmail.com,Sent,,2025-10-29 01:45:30

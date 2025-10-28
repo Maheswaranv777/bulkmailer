@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Welcome Campaign",
+    "subject": "\ud83c\udf89 Welcome to MEGOVATION!",
+    "content": "<!DOCTYPE html><html><head><style>body{font-family:Arial,sans-serif;background-color:#f8f9fa;padding:20px;color:#333}.container{max-width:600px;margin:0 auto;background-color:#fff;border:1px solid #e0e0e0;border-radius:6px;padding:30px}.header{text-align:center;padding-bottom:20px}.button{display:inline-block;padding:12px 20px;margin-top:20px;background-color:#007bff;color:#fff!important;text-decoration:none;border-radius:4px;font-weight:bold}.footer{font-size:12px;color:#777;text-align:center;margin-top:30px}</style></head><body><div class=\"container\"><div class=\"header\"><h2>\ud83d\ude80 Welcome to MEGOVATION</h2></div><p>Dear user,</p><p>We\u2019re thrilled to have you on board. Here at <strong>MEGOVATION</strong>, we\u2019re working on innovative solutions that streamline productivity, communication, and business growth.</p><p>To get started, explore our platform and see how it can transform your workflow.</p><a href=\"https://yourcompany.com/dashboard\" class=\"button\">Access Dashboard</a><p>For questions, feedback, or assistance, feel free to reach out to our support team anytime.</p><p>Warm regards,<br><strong>The MEGOVATION Team</strong></p><div class=\"footer\"><p>You\u2019re receiving this email because you signed up for updates from MEGOVATION.</p><p><a href=\"https://yourcompany.com/unsubscribe\">Unsubscribe</a></p></div></div></body></html>",
+    "scheduled_time": "2025-10-29 01:43:00",
+    "status": "Completed"
+  }
+]
