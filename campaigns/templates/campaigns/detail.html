@@ -1,0 +1,12 @@
+<h2>Campaign: {{ campaign.name }}</h2>
+<p>Status: {{ campaign.status }}</p>
+<table border="1">
+<tr><th>Email</th><th>Status</th><th>Reason</th></tr>
+{% for log in logs %}
+<tr>
+<td>{{ log.recipient.email }}</td>
+<td>{{ log.status }}</td>
+<td>{{ log.failure_reason }}</td>
+</tr>
+{% endfor %}
+</table>

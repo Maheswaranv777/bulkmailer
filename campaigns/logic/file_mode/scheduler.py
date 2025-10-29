@@ -1,6 +1,8 @@
 from datetime import datetime
-from .recipient import load_recipients
-from .campaign import load_campaigns, update_campaign_status
+
+from bulkmailer.campaigns.models import EmailLog
+from .recipient import Recipient, load_recipients
+from .campaign import Campaign, load_campaigns, update_campaign_status
 from .logger import log_delivery
 from .mailjet_client import send_email
 
@@ -50,3 +52,5 @@ def run_campaigns():
             print(f"✅ Campaign completed: {campaign.name}")
         else:
             print("⏩ Skipping (not scheduled or already completed)")
+            
+    

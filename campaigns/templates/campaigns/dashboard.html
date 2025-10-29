@@ -1,0 +1,16 @@
+<h1>Campaign Dashboard</h1>
+<a href="/campaigns/create/">New Campaign</a> |
+<a href="/recipients/upload/">Upload Recipients</a>
+
+<table border="1">
+<tr><th>Name</th><th>Status</th><th>Sent</th><th>Failed</th><th>Actions</th></tr>
+{% for item in data %}
+<tr>
+  <td>{{ item.campaign.name }}</td>
+  <td>{{ item.campaign.status }}</td>
+  <td>{{ item.sent }}</td>
+  <td>{{ item.failed }}</td>
+  <td><a href="/campaigns/{{ item.campaign.id }}/">Details</a></td>
+</tr>
+{% endfor %}
+</table>
